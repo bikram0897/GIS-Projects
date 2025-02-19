@@ -1,6 +1,7 @@
 📖 Project Overview
 This project demonstrates the integration of CAD, GIS, and Web Mapping tools to process, adjust, and publish spatial data for a real estate plots management system.
-The primary goal was to transform CAD-based layouts into GIS formats and visualize the information in an interactive web map using Google My Maps for enhanced accessibility and decision-making.
+The primary goal was to transform CAD-based layouts into GIS formats and visualize the information in an interactive web map using 
+Google My Maps for enhanced accessibility and decision-making.
 
 The project provides two viewing modes for end-users:
 Project Owner Mode: Detailed insights about each land parcel, including dimensions, ownership, and status.
@@ -42,10 +43,10 @@ RealEstate-GIS-Maps/
 
 
 🛠️ Tools and Technologies Used
-AutoCAD Map 3D: For designing and managing DWG files with precise layouts.
-ArcGIS: For spatial adjustments, annotations, and shapefile creation.
-QGIS: For converting DXF to shapefile and KML, and styling spatial data.
-Google My Maps: For publishing and sharing interactive maps online.
+    AutoCAD Map 3D: For designing and managing DWG files with precise layouts.
+    ArcGIS: For spatial adjustments, annotations, and shapefile creation.
+    QGIS: For converting DXF to shapefile and KML, and styling spatial data.
+    Google My Maps: For publishing and sharing interactive maps online.
 
 
 📋 Workflow and Steps
@@ -79,5 +80,4 @@ Interactive Visualization
   Google My Maps is an effective and user-friendly platform for sharing spatial data with stakeholders.
 
 
-🖇️ Contributing
-Contributions are welcome! If you’ve worked on similar GIS-based real estate projects or have ideas for improving this workflow, feel free to open an issue or submit a pull request.
+
