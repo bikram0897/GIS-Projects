@@ -39,11 +39,11 @@ Mobile-Field-Survey-GIS/
 
 
 🛠️ Tools and Technologies Used
-ODK Collect: For mobile-based field data collection with customizable forms.
-Microsoft Excel & Google Sheets: For data management and basic analysis.
-Google Drive & Email: For secure cloud-based storage and sharing.
-ODK Converter: To process and export collected survey data.
-Google My Maps: For publishing and visualizing field data with geospatial insights.
+    ODK Collect App: For mobile-based field data collection with customizable forms.
+    Microsoft Excel & Google Sheets: For data management and basic analysis.
+    Google Drive & Email: For secure cloud-based storage and sharing.
+    ODK Converter: To convert excel data to machine redable format.
+    Google My Maps: For publishing and visualizing field data with geospatial insights.
 
 
 📋 Workflow and Steps
@@ -74,8 +74,7 @@ Enhance Maps with Geotagged Images
   Integrating ODK Collect with Google Sheets and My Maps creates a cost-effective GIS solution.
   Geotagging images provides rich spatial insights and improves map usability.
 
-🖇️ Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request if you’d like to enhance this project or share similar workflows.
+
 
 
 
